@@ -59,8 +59,17 @@ section#redes-sociais img:hover {
     transition: transform .3s border 1s;
 }
 
+footer > a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover { 
+    color: purple;
+}
+
 footer {
-    background-color: green;
+    color: white;
     text-align: center;
-    
+    padding: 4px;
 }
